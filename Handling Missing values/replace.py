@@ -1,6 +1,6 @@
 #np.isinf(array) 10^1000
 #1/0
-
+#This is numpy handling missing
 import numpy as np
 
 arr = np.array([1,2,np.inf, 4, -np.inf, 6])
